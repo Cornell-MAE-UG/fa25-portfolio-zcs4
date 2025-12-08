@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Zachary Snarr CV.pdf" | relative_url }}) in PDF format.
 
 **Email:** [zcs4@cornell.edu](mailto:zcs4@cornell.edu) | **Phone:** (650) 823-1469 | **Location:** Ithaca, NY  
 **LinkedIn:** [linkedin.com/in/zachsnarr](https://www.linkedin.com/in/zachsnarr)
