@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Systems Final Project
-description: Pitch Control of an Aircraft (PDF report)
-technologies: [MATLAB, Control Theory, Simulation]
+title: Pitch Control of an Aircraft
+description: 
+technologies: [MATLAB]
 image: /assets/images/Pitch Control.png
 ---
 
-# System Dynamics Final Project - Pitch Control of an Aircraft
+# System Dynamics Final Project
 
 This page contains my final project submission for MAE 3260.  
 Click below to view or download the full report.
